@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "CinnamonV4",
+"companyName": "ProjectZero",
+"productName": "Only One Button",
 "dataUrl": "TestBuild.data.unityweb",
 "wasmCodeUrl": "TestBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "TestBuild.wasm.framework.unityweb",
