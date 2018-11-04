@@ -1,0 +1,13 @@
+{
+"companyName": "ProjectZero",
+"productName": "OnlyOneButton",
+"dataUrl": "f0252af73b9b1be32cca2da1e5f95307.unityweb",
+"wasmCodeUrl": "e22fc850a1b1651a669eda1762fa4f55.unityweb",
+"wasmFrameworkUrl": "b040de1d8bfbf03b8df7b12d80937919.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
