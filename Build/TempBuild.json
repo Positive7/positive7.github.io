@@ -1,13 +1,14 @@
 {
-"companyName": "DefaultCompany",
-"productName": "YATM",
+"companyName": "ProjectZero",
+"productName": "You Are The Monster",
 "dataUrl": "TempBuild.data.unityweb",
 "wasmCodeUrl": "TempBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "TempBuild.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "TempBuild.jpg",
 "splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
+"backgroundColor": "#FFFFFF",
 "cacheControl": {"default": "must-revalidate"}
 }
